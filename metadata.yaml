@@ -1,0 +1,30 @@
+_repo: Lands-of-the-Slave-and-the-Free--13-Or-Cuba-the-United-States-and-Canada_11329
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Murray, Henry A. (Henry Anthony)
+    alias: Murray, Henry Anthony
+    birthdate: 1810
+    deathdate: 1865
+    gutenberg_agent_id: '3941'
+    url: http://www.gutenberg.org/2009/agents/3941
+description: ''
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11329'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F1001'
+- !lcsh 'United States -- Description and travel'
+- !lcsh 'Cuba -- Description and travel'
+- !lcc 'F1751'
+- !lcsh 'Slavery -- United States'
+- !lcsh 'Canada -- Description and travel'
+- !lcc 'E151'
+- GITenberg
+title: Lands of the Slave and the Free; Or, Cuba, the United States, and Canada
+url: http://www.gutenberg.org/ebooks/11329
